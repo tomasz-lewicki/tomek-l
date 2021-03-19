@@ -28,4 +28,4 @@ __PCB business card__: PCB business card with a build-in proto board. [code](htt
 
 __PMS 7003__: A minimal python interface for PMS7003 air quality/PM sensor [code](https://github.com/tomek-l/pms7003)
 
-## Mechanical 🦾
+<!-- ## Mechanical 🦾 -->
