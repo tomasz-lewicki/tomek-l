@@ -1,6 +1,4 @@
-## Hi! 👋
-
-I'm Tomasz. Here are my personal projects organized by topic.
+## Hi! 👋 I'm Tomasz. Here are my personal projects organized by topic.
 
 ## Deep Learning + Computer Vision 
 
