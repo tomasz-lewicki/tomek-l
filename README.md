@@ -13,7 +13,9 @@ __Wildfire Detection 🔥__ Wildfire Detection with Deep Neural Networks. [code]
 __Car Perception__  Retrofitting modern Radar + Camera perception onto an old car  [code](https://github.com/tomek-l/car)
 
 ## Data Analysis
-__Paper Recommender using Collaborative Filtering__ [code](https://github.com/tomek-l/paper-recommender)
+__Paper Recommender__ Collaborative Filtering based paper recommendations using DBLP dataset [code](https://github.com/tomek-l/paper-recommender)
+
+__Paper Finder__ Find similar arxiv papers based on tf-idf features [code](https://github.com/tomek-l/paper-finder)
 
 __Author Predicition__ Author prediction from a paragraph using Deep Neural Nets [code](https://github.com/tomek-l/author-predictor) 
 
