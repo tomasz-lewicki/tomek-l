@@ -2,7 +2,11 @@
 
 ## Deep Learning + Computer Vision 
 
-🌡️ __AI Thermometer__ Fever screening with IR & RGB cameras and Deep CNNs. [code](https://github.com/tomek-l/ai-thermometer)
+🌡️ [AI Thermometer](https://github.com/tomek-l/ai-thermometer)
+Fever screening with IR & RGB cameras and Deep CNNs. 
+
+[https://raw.githubusercontent.com/tomek-l/ai-thermometer/master/docs/images/retinaface/healthy.gif
+
 
 🧠 __Brain Hemorrhage Detection__ Deep-CNN Brain Hemorrhage Detection and Classification. [code](https://github.com/tomek-l/brain-hemorrhage-detection)
 
