@@ -1,19 +1,26 @@
-## Hi! 👋 I'm Tomasz. Here are my personal projects organized by topic.
+## Hi! Here are my personal projects organized by topic.
 
-## Deep Learning + Computer Vision 
+# DL + CV
 
-🌡️ [AI Thermometer](https://github.com/tomek-l/ai-thermometer)
-Fever screening with IR & RGB cameras and Deep CNNs. 
+## [AI Thermometer](https://github.com/tomek-l/ai-thermometer)
+Fever screening with IR & RGB cameras and Deep CNNs 🌡️ 
 
-[https://raw.githubusercontent.com/tomek-l/ai-thermometer/master/docs/images/retinaface/healthy.gif
+![](https://raw.githubusercontent.com/tomek-l/ai-thermometer/master/docs/images/retinaface/healthy.gif)
 
+## [Wildfire Detection with Deep Neural Networks](https://github.com/tomek-l/fire-detect-nn)
+Detecting wildfires with Deep Neural Nets onboard a drone.
 
-🧠 __Brain Hemorrhage Detection__ Deep-CNN Brain Hemorrhage Detection and Classification. [code](https://github.com/tomek-l/brain-hemorrhage-detection)
+![](https://raw.githubusercontent.com/tomek-l/fire-detect-nn/master/docs/fire.gif)
 
-🔥 __Wildfire Detection__ Wildfire Detection with Deep Neural Networks. [code](https://github.com/tomek-l/fire-detect-nn)
+## [Brain Hemorrhage Detection](https://github.com/tomek-l/brain-hemorrhage-detection)
+Deep-CNN Brain Hemorrhage Detection and Classification. 
 
-## Robotics
-🚗 __Car Perception__  Retrofitting modern Radar + Camera perception onto an old car  [code](https://github.com/tomek-l/car)
+![](https://raw.githubusercontent.com/tomek-l/brain-hemorrhage-detection/master/images/flow.png)
+
+## [Car Perception](https://github.com/tomek-l/car)
+Retrofitting modern Radar + Camera perception onto an old car  
+
+![](https://github.com/tomek-l/car/blob/master/docs/person_in_cart.png)
 
 ## Data Analysis
 
