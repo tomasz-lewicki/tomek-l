@@ -1,4 +1,4 @@
-## Hi! Here are my personal projects organized by topic.
+Hi! Here are my personal projects:
 
 ## Big projects
 
