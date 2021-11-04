@@ -26,6 +26,8 @@ Find similar arxiv papers based on tf-idf features [Code](https://github.com/tom
 #### Author Predicition
 Author prediction from a paragraph using Deep Neural Nets [Code](https://github.com/tomek-l/author-predictor) 
 
+#### Wildfire Simulation
+Cellular simulation of wildfire. Simulates 10M cell grid at 20FPS [Code](https://github.com/tomek-l/fire-simulation)
 
 ## Electronics
 #### PCB business card
