@@ -1,4 +1,4 @@
-Hi! 👋 Here are my personal projects by topic:
+<!-- Hi! 👋 Here are my personal projects by topic:
 
 ## Big projects
 
@@ -36,3 +36,4 @@ Business Card made on a PCB. Comes with a proto board! [Code](https://github.com
 #### PMS 7003
 A minimal python interface for PMS7003 air quality/PM sensor [code](https://github.com/tomek-l/pms7003)
 
+ -->
